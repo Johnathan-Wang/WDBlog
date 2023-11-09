@@ -1,1 +1,2 @@
 # WDBlog
+Hello people. OwO
